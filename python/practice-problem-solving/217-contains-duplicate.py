@@ -20,7 +20,7 @@ class Solution(object):
           return True
       return False
 
-# Time Complexity O(n*logn) -> Modern sorting algorithms such as Timsort, Quicksort, Mergesort have O(n*logn) time complexity.
+# Time Complexity O(n*logn) > Modern sorting algorithms such as Timsort, Quicksort, Mergesort have O(n*logn) time complexity.
 # Space Complexity O(n) or O(1) depending to the sorting algorithm.
 
 
