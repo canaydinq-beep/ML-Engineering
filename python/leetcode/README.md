@@ -1,3 +1,3 @@
-# LeetCode Solutions 
+# Python Practice & Problem Solving
 
-In this folder, I implement solutions and alternative solutions for the questions found on the LeetCode website.
+A curated collection of my Python solutions from LeetCode and DataLemur, focused on data structures, algorithms, and clean, efficient code.
